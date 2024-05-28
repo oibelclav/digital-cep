@@ -2,7 +2,7 @@
     "name": "oibelclav/digital-cep",
     "description": "consulta de cep gratuíta",
     "type": "library",
-    "license": "usp",
+    "license": "mit",
     "autoload": {
         "psr-4": {
             "Oibelclav\\DigitalCep\\": "src/"
