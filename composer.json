@@ -1,0 +1,24 @@
+{
+    "name": "oibelclav/digital-cep",
+    "description": "consulta de cep gratuíta",
+    "type": "library",
+    "license": "usp",
+    "autoload": {
+        "psr-4": {
+            "Oibelclav\\DigitalCep\\": "src/"
+        },
+        "psr-0": {
+            "Search":"src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "oibelclav",
+            "email": "valclebioalves@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php":">=7.2.0"
+    }
+}
